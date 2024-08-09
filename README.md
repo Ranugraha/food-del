@@ -1,6 +1,5 @@
 # Fullstack Web | Food Delivery  
 
-Deskripsi
 Aplikasi Pengiriman Makanan adalah aplikasi yang memungkinkan pengguna untuk memesan makanan dari restoran lokal dan mengatur pengiriman ke lokasi mereka. Aplikasi ini menyediakan antarmuka yang mudah digunakan untuk memesan makanan, melacak status pesanan, dan mengelola riwayat pesanan.
 
 ## Feature
@@ -21,4 +20,7 @@ Untuk menjalankan aplikasi ini di lokal Anda, ikuti langkah-langkah berikut:
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) versi 14 atau lebih baru
+- [Vite.js](https://vitejs.dev/) versi 4.3.1 atau lebih baru
 - [MongoDB](https://www.mongodb.com/) (untuk database)
+- [React.js](https://react.dev/) (untuk front end)
+- [Express.js](https://expressjs.com/) (untuk back end)
